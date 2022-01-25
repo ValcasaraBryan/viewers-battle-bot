@@ -1,0 +1,10 @@
+{
+    "version": "1",
+    "scripts": {},
+    "type": "module",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "tmi.js": "^1.8.5"
+    },
+    "devDependencies": {}
+}
